@@ -1,1 +1,1 @@
-This is my first text file commited using Git.[D[D[D[D[D[D[D[D[D[D[D[D[D[Dtted [C[D [C[C[Ctted using Git.
+This is my first text file commited using Git.
